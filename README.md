@@ -63,7 +63,7 @@ To guarantee ultra-low latency responsiveness during a crisis, the system utiliz
 ---
 
 ## 📊 Security & Automated Incident Logging
-During an emergency, bystanders cannot manually document their actions. SmartAid's `IncidentLogger` service acts as a background telemetry engine.
+During an emergency, bystanders cannot manually document their actions. SmartAid's `IncidentLogger` service acts as a background telemetry engine designed to give them medically verified steps to follow.
 * Captures start times, voice confirmations, and severe procedural deviations.
 * Data is encrypted at rest using native hardware encryption protocols.
 * Generates an automated, structured clinical summary for immediate handover to arriving paramedics, fundamentally improving the continuum of care.

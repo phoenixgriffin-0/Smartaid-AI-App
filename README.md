@@ -14,6 +14,7 @@
 
 
 **SmartAid** is a hybrid (PWA/Native Android) AI-powered mobile first aid coaching system designed specifically for low-connectivity environments. It monitors emergency scenes in real-time using on-device cameras, interacts via a Voice User Interface (VUI) for hands-free operation, and delivers dynamic, contextual guidance to untrained bystanders.
+(VUI)
 
 ---
 

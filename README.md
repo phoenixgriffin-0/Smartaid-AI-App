@@ -13,6 +13,7 @@ node(comp)
 ## 📱 The Interface: Designed for High-Stress Scenarios
 <img width="942" height="486" alt="image" src="https://github.com/user-attachments/assets/14a0f4ce-e53d-44d2-a902-b704d4dd7ec9" />
 
+just visualz
 
 **SmartAid** is a hybrid (PWA/Native Android) AI-powered mobile first aid coaching system designed specifically for low-connectivity environments. It monitors emergency scenes in real-time using on-device cameras, interacts via a Voice User Interface (VUI) for hands-free operation, and delivers dynamic, contextual guidance to untrained bystanders.
 (VUI)

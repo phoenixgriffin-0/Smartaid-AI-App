@@ -54,7 +54,7 @@ The application is engineered to eliminate reliance on active web connections fo
 * **Offline (Airplane Mode):** AI features gracefully degrade. The system seamlessly routes the user to a localized, pre-cached JSON knowledge base of decision trees and step-by-step guides bundled at build time.
 
 ---
-
+Implemented via a custom `useVoiceInterface` hook wrapping the browser's native `SpeechRecognition` and `SpeechSynthesis` APIs.
 ## ⚙️ System Architecture & Edge Integration
 <img width="942" height="444" alt="image" src="https://github.com/user-attachments/assets/e043b8c9-39fc-469a-a83c-b5d6a8fca6a7" />
 

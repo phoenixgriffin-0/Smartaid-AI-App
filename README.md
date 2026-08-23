@@ -75,10 +75,3 @@ During an emergency, bystanders cannot manually document their actions. SmartAid
 
 
 
-
-📊 Secure Automated Incident Tracking
-In high-stress emergencies, bystanders cannot be expected to manually record their actions. SmartAid’s IncidentLogger solves this by running as a background telemetry engine, tracking the situation seamlessly while guiding users through medically verified steps.
- * Captures Critical Telemetry: Automatically records intervention start times, voice confirmations, and any major deviations from standard procedures.
- * Ensures Data Security: Protects all stored data using native, hardware-level encryption protocols.
- * Optimizes EMS Handovers: Generates a structured clinical summary for arriving paramedics, providing an accurate briefing that fundamentally improves the continuum of care.
-

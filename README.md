@@ -68,10 +68,13 @@ To guarantee ultra-low latency responsiveness during a crisis, the system utiliz
 
 ## 📊 Security & Automated Incident Logging
 During an emergency, bystanders cannot manually document their actions. SmartAid's `IncidentLogger` service acts as a background telemetry engine designed to give them medically verified steps to follow.
+
+
 * Captures start times, voice confirmations, and severe procedural deviations.
 * Data is encrypted at rest using native hardware encryption protocols.
 * Generates an automated, structured clinical summary for immediate handover to arriving paramedics, fundamentally improving the continuum of care.
-* 
 
 
-
+Implemented via a custom `useVoiceInterface` hook wrapping the browser's native `SpeechRecognition` and `SpeechSynthesis` APIs.
+## ⚙️ System Architecture & Edge Integration
+<img width="942" height="444" alt="image" src="https://github.com/user-attachments/assets/e043b8c9-39fc-469a-a83c-b5d6a8fca6a7" />

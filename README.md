@@ -6,7 +6,7 @@ node(comp)
 ![Google Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-> **Graded Class 1 Distinction – Midlands State University (BCom Hons, Information Systems, Dissertation of the Year )**
+> **Graded Class 1 Distinction – Midlands State University (BCom Hons, Information Systems, Dissertation of the Year at MSU science and tech department)**
 
 ---
 

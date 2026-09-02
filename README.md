@@ -65,6 +65,7 @@ To guarantee ultra-low latency responsiveness during a crisis, the system utiliz
 * **Hybrid Data Tier:** Employs device internal flash memory (SQLite/JSON document storage) for zero-latency retrieval of medical protocols, synchronized securely with **Supabase** via encrypted background workers when connectivity is restored.
 
 ---
+location 2 emergency response 
 
 ## 📊 Security & Automated Incident Logging
 During an emergency, bystanders cannot manually document their actions. SmartAid's `IncidentLogger` service acts as a background telemetry engine designed to give them medically verified steps to follow.

@@ -57,7 +57,7 @@ Implemented via a custom `useVoiceInterface` hook wrapping the browser's native 
 <img width="942" height="444" alt="image" src="https://github.com/user-attachments/assets/e043b8c9-39fc-469a-a83c-b5d6a8fca6a7" />
 
 
-To guarantee ultra-low latency responsiveness during a crisis, the system utilizes a modular, service-oriented architecture tailored for edge computing. 
+To ensure ultra-low latency during a crisis, the system relies on a modular, service-oriented edge architecture.
 * **Presentation Tier:** Built with **React 19** and **TypeScript**, packaged for native Android via **Capacitor**.
 * **Edge Processing Engine:** Handles natural language queries and live camera frame extraction locally to prevent dangerous latency.
 * **Hybrid Data Tier:** Employs device internal flash memory (SQLite/JSON document storage) for zero-latency retrieval of medical protocols, synchronized securely with **Supabase** via encrypted background workers when connectivity is restored.

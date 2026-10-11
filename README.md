@@ -18,6 +18,7 @@ node(comp)
 (VUI)
 
 ---
+---
 
 ## 🏢 The Business Case: Solving "Action Paralysis"
 In high-stress medical emergencies, survival outcomes depend heavily on the accuracy of initial bystander care. However, traditional mobile health (mHealth) applications present critical structural weaknesses:

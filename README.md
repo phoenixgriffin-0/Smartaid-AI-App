@@ -7,7 +7,8 @@ node(comp)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 > **Graded Class 1 Distinction – Midlands State University (BCom Hons, Information Systems, Dissertation of the Year at MSU science and tech department)**
-
+#saluted for easy applicability into the modern day tech landscape
+> 
 ---
 
 ## 📱 The Interface: Designed for High-Stress Scenarios
